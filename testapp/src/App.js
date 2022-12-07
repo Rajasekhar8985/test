@@ -10,8 +10,9 @@ function App() {
   return (
    <div>
      <Check/>
-     <Checking/>
      <Test/>
+     <Checking/>
+
 
    </div>
   );
