@@ -1,15 +1,12 @@
+import logo from './logo.svg';
 import './App.css';
-import Test from './check'
-import Testing from './check1'
-import React from 'react'
+import Check from './check'
 
 function App() {
   return (
-    <div>
-    <Test />
-    <Testing />
-
-    </div>
+   <div>
+     <Check/>
+   </div>
   );
 }
 

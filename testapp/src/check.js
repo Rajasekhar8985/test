@@ -1,14 +1,11 @@
 import React from 'react'
-import { ReactDOM } from 'react'
 
-function test(){
-   return(
-      <div>
-         <h1>Hello</h1>
-         <p>Welcome</p>
-      </div>
-    
-   )}
+function check(){
+    return (
+        <div>
+            <h1>Hello</h1>
+        </div>
+    )
+}
 
-
-export default test
+export default check
