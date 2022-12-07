@@ -1,14 +1,14 @@
 import React from 'react'
 import { ReactDOM } from 'react'
 
-function test(){
+function testing(){
    return(
       <div>
          <h1>Hello</h1>
-         <p>Welcome</p>
+         <p>Rajasekhar</p>
       </div>
     
    )}
 
 
-export default test
+export default testing
